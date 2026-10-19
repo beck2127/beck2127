@@ -3,6 +3,8 @@
 
 <p align="center">
   <a href="mailto:beckodin@gmail.com"><img src="https://img.shields.io/badge/Email-beckodin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bereket-tekeste/"><img src="https://img.shields.io/badge/LinkedIn-bereket--tekeste-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://beck2127.github.io"><img src="https://img.shields.io/badge/Portfolio-beck2127.github.io-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Newark%2C%20NJ-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
