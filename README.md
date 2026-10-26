@@ -15,7 +15,7 @@
 
 I build full-stack software and apply deep learning to real-world signals.
 
-- **Full-stack engineer:** 2 years building features at **Styret.com**, Norway's leading independent board portal, with .NET Core APIs, AngularJS/TypeScript and SQL/NoSQL databases
+- **Full-stack engineer:** built production features at **Styret.com**, Norway's leading independent board portal, with .NET Core APIs, AngularJS/TypeScript and SQL/NoSQL databases
 - **AI researcher:** co-authored research on fall detection with wearable sensors, reaching **99.68% accuracy** ([preprint](https://easychair.org/publications/preprint/JkfnX))
 - **Education:** MSc in Applied Computer and Information Technology (AI) and BSc in Software Engineering, both from Oslo Metropolitan University
 - **Builder and owner:** founded and ran a B2B last-mile delivery company in Oslo
