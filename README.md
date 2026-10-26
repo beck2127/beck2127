@@ -86,8 +86,5 @@ I build full-stack software and apply deep learning to real-world signals.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20roles-2C5364?style=for-the-badge"/>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
